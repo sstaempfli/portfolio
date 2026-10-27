@@ -66,6 +66,8 @@ Student association at ETH Zürich and the University of Zürich that runs socia
 
 **Live.** [matchlabzh.ch](https://www.matchlabzh.ch)
 
+![Match Lab](img/matchlab.png)
+
 ---
 
 ## Research
