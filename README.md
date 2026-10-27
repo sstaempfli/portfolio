@@ -18,8 +18,6 @@ CV and contact: [linkedin.com/in/shana-s-61a492123](https://www.linkedin.com/in/
 
 ![Fewlights](img/fewlights.png)
 
-![How Fewlights works](img/fewlights-how-it-works.png)
-
 ---
 
 ## House of Heron
